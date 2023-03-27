@@ -1,0 +1,16 @@
+.dsmeta-red-btn {
+    height: 45px;
+    width: 45px;
+    background: rgba(255, 107, 114, 0.1);
+    border: 1px solid #FF6B72;
+    border-radius: 10px;
+    display: flex; /* Mudança de alinhamento por meio do display flex */
+    align-items: center; /* Alinhar os textos e imagens ao centro.*/
+    justify-content: center; /* Alinhar os textos e imagens ao centro na horizontal.*/
+    cursor: pointer; /* Habilita a 'mãozinha' por cima da imagem.*/
+}
+
+/* Estilização da largura do botão vermelho.*/
+.dsmeta-red-btn img {
+    width: 19px;
+}
